@@ -7,7 +7,8 @@
 	"workbench.list.smoothScrolling": true,
 	"terminal.integrated.smoothScrolling": true,
 	"mdx.experimentalLanguageServer": true,
-	"editor.tabSize": 2,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
 	"editor.wordWrap": "on",
 	"editor.codeActionsOnSave": {
 		"source.fixAll.eslint": "explicit"
@@ -66,8 +67,6 @@
 	"editor.detectIndentation": false,
 	"editor.fontLigatures": "'calt', 'ss01'",
 	"[python]": {
-		"editor.insertSpaces": true,
-
 		"editor.tabSize": 4
 	},
 	"cSpell.words": ["elysia", "jiti"],
@@ -102,7 +101,6 @@
 	"[ignore]": {
 		"editor.defaultFormatter": "foxundermoon.shell-format"
 	},
-	"editor.insertSpaces": true,
 	"vim.useSystemClipboard": true,
 
 	"vim.useCtrlKeys": false,
